@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programacao senac\\projetoxunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|c:\\programacao senac\\projetoxunit\\calcualdorateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|solutionrelative:calcualdorateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|c:\\programacao senac\\projetoxunit\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|c:\\programacao senac\\projetoxunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|c:\\programacao senac\\projetoxunit\\projetoxunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7FE614D-6EBB-483E-904C-41C8DD02F327}|projetoxunit.csproj|solutionrelative:projetoxunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calcualdorateste.cs",
+              "DocumentMoniker": "C:\\programacao senac\\projetoxunit\\Calcualdorateste.cs",
+              "RelativeDocumentMoniker": "Calcualdorateste.cs",
+              "ToolTip": "C:\\programacao senac\\projetoxunit\\Calcualdorateste.cs",
+              "RelativeToolTip": "Calcualdorateste.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:16:34.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "projetoxunit",
+              "DocumentMoniker": "C:\\programacao senac\\projetoxunit\\projetoxunit.csproj",
+              "RelativeDocumentMoniker": "projetoxunit.csproj",
+              "ToolTip": "C:\\programacao senac\\projetoxunit\\projetoxunit.csproj",
+              "RelativeToolTip": "projetoxunit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T23:05:29.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\programacao senac\\projetoxunit\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\programacao senac\\projetoxunit\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:55:09.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\programacao senac\\projetoxunit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\programacao senac\\projetoxunit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:53:45.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
